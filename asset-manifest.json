@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/passwd-api/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/passwd-api/static/js/main.f3c2cee8.chunk.js",
+    "main.js.map": "/passwd-api/static/js/main.f3c2cee8.chunk.js.map",
+    "runtime-main.js": "/passwd-api/static/js/runtime-main.82dd0378.js",
+    "runtime-main.js.map": "/passwd-api/static/js/runtime-main.82dd0378.js.map",
+    "static/js/2.9998e85a.chunk.js": "/passwd-api/static/js/2.9998e85a.chunk.js",
+    "static/js/2.9998e85a.chunk.js.map": "/passwd-api/static/js/2.9998e85a.chunk.js.map",
+    "static/js/3.9e02a2aa.chunk.js": "/passwd-api/static/js/3.9e02a2aa.chunk.js",
+    "static/js/3.9e02a2aa.chunk.js.map": "/passwd-api/static/js/3.9e02a2aa.chunk.js.map",
+    "index.html": "/passwd-api/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/passwd-api/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.9998e85a.chunk.js.LICENSE.txt": "/passwd-api/static/js/2.9998e85a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/passwd-api/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82dd0378.js",
+    "static/js/2.9998e85a.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.f3c2cee8.chunk.js"
+  ]
+}
